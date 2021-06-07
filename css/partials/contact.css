@@ -1,0 +1,88 @@
+.signUpmain {
+  height: 1200px;
+}
+
+.formDiv {
+  border-radius: 5px;
+  margin-top: 40px;
+  padding: 20px;
+  width: 50%;
+  height: 800px;
+  margin: 150px auto;
+}
+
+input[type='text'] {
+  width: 100%;
+  height: 40px;
+  padding: 5px;
+  border-radius: 5px;
+  background-color: var(--text-color);
+}
+
+#subject {
+  height: 40px;
+  width: 100%;
+  border-radius: 5px;
+  background-color: var(--text-color);
+}
+
+#message {
+  height: 200px;
+  width: 100%;
+  border-radius: 5px;
+  background-color: var(--text-color);
+}
+#text {
+  height: 200px;
+  width: 100%;
+  border-radius: 5px;
+
+  background-color: var(--text-color);
+}
+
+label {
+  color: var(--text-color);
+  margin-top: 10px;
+  display: block;
+}
+
+p {
+  padding: 0px;
+  margin: 0px;
+}
+
+.submitBtn {
+  margin-top: 50px;
+  background-color: var(--pink-color);
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  color: var(--text-color);
+  height: 60px;
+  font-size: 1.5rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+
+.formText {
+  width: 100%;
+  margin-top: 40px;
+  text-align: center;
+}
+
+.error {
+  color: red;
+}
+.hide {
+  display: none;
+}
+
+.show {
+  display: block;
+}
+
+textarea[placeholder] {
+  padding: 5px;
+}

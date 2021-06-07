@@ -12,19 +12,19 @@ header {
 }
 
 .logo a {
-  color: black;
+  color: #312b2b;
   font-size: 2.3rem;
   font-weight: bold;
 }
 .fa-bars {
-  color: black;
+  color: #312b2b;
 }
 
 nav {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 90%;
+  width: 100%;
   margin: auto;
 }
 
@@ -34,7 +34,7 @@ nav {
 }
 
 .navLinks a {
-  margin-left: 40px;
+  margin-left: 20px;
   font-weight: bold;
   font-size: 1.2rem;
   text-transform: uppercase;
@@ -52,7 +52,7 @@ nav {
 }
 
 .exitHamburger {
-  color: black;
+  color: #312b2b;
 }
 
 nav .headerList {
@@ -62,8 +62,7 @@ nav .headerList {
 nav .headerList li a {
   display: inline-block;
   text-decoration: none;
-
-  color: black;
+  color: #312b2b;
   font-size: 1.2rem;
   font-weight: medium;
 }
