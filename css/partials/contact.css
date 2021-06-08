@@ -3,7 +3,6 @@
 }
 
 .formDiv {
-  border-radius: 5px;
   margin-top: 40px;
   width: 50%;
   height: 800px;
@@ -21,7 +20,6 @@ input[type='text'] {
 #subject {
   height: 40px;
   width: 100%;
-  border-radius: 5px;
 }
 
 #message {
@@ -33,6 +31,10 @@ input[type='text'] {
   height: 200px;
   width: 100%;
   border-radius: 5px;
+}
+
+textarea {
+  border: solid 2px black;
 }
 
 label {
@@ -52,7 +54,7 @@ p {
   border: none;
   border-radius: 5px;
   height: 60px;
-  font-size: 1.5rem;
+  font-size: 2rem;
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 3px;

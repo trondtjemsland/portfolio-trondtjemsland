@@ -1,4 +1,12 @@
 @media (max-width: 1300px) {
+  .projectsContainer {
+    display: block;
+    justify-content: space-evenly;
+    margin: auto;
+  }
+  .cards {
+    margin: auto;
+  }
 }
 @media (max-width: 1100px) {
 }
