@@ -34,23 +34,18 @@ a {
   color: #312b2b;
 }
 
-.aboutmeContainer {
+.skillscontainer {
   width: 100%;
-  margin: 400px auto;
+  margin: 40px auto;
   display: flex;
   justify-content: space-evenly;
   border: solid 2px red;
 }
 
-.aboutheading {
-  font-size: 3rem;
-  font-weight: medium;
+.aboutMeText {
+  font-size: 2.6rem;
+  font-weight: bold;
 }
-
-.skillscontainer {
-  display: block;
-}
-
-#skillsImage {
-  width: 100px;
+.studentText {
+  font-size: 2rem;
 }
