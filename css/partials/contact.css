@@ -5,7 +5,6 @@
 .formDiv {
   border-radius: 5px;
   margin-top: 40px;
-  padding: 20px;
   width: 50%;
   height: 800px;
   margin: 150px auto;
@@ -15,33 +14,28 @@ input[type='text'] {
   width: 100%;
   height: 40px;
   padding: 5px;
-  border-radius: 5px;
-  background-color: var(--text-color);
+  border: none;
+  border-bottom: 2px solid black;
 }
 
 #subject {
   height: 40px;
   width: 100%;
   border-radius: 5px;
-  background-color: var(--text-color);
 }
 
 #message {
   height: 200px;
   width: 100%;
   border-radius: 5px;
-  background-color: var(--text-color);
 }
 #text {
   height: 200px;
   width: 100%;
   border-radius: 5px;
-
-  background-color: var(--text-color);
 }
 
 label {
-  color: var(--text-color);
   margin-top: 10px;
   display: block;
 }
@@ -53,12 +47,10 @@ p {
 
 .submitBtn {
   margin-top: 50px;
-  background-color: var(--pink-color);
   width: 100%;
   padding: 10px;
   border: none;
   border-radius: 5px;
-  color: var(--text-color);
   height: 60px;
   font-size: 1.5rem;
   font-weight: bold;
