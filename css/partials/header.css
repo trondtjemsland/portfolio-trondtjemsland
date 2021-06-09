@@ -13,7 +13,7 @@ header {
 
 .logo a {
   color: #312b2b;
-  font-size: 2.3rem;
+  font-size: 2.5rem;
   font-weight: bold;
 }
 .fa-bars {
@@ -61,7 +61,7 @@ nav .headerList li a {
   display: inline-block;
   text-decoration: none;
   color: #312b2b;
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   font-weight: medium;
 }
 nav .hamburgerMenu {

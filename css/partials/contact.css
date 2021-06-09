@@ -11,10 +11,12 @@
 
 input[type='text'] {
   width: 100%;
+  font-size: 1.2rem;
   height: 40px;
   padding: 5px;
   border: none;
-  border-bottom: 2px solid black;
+  border-bottom: 2px solid #312b2b;
+  background-color: #fff4e3;
 }
 
 #subject {
@@ -34,10 +36,12 @@ input[type='text'] {
 }
 
 textarea {
-  border: solid 2px black;
+  border: solid 2px #312b2b;
+  font-size: 1rem;
 }
 
 label {
+  font-size: 1.2rem;
   margin-top: 10px;
   display: block;
 }
@@ -50,7 +54,6 @@ p {
 .submitBtn {
   margin-top: 50px;
   width: 100%;
-  padding: 10px;
   border: none;
   border-radius: 5px;
   height: 60px;
@@ -58,6 +61,7 @@ p {
   font-weight: bold;
   text-transform: uppercase;
   letter-spacing: 3px;
+  background-color: #a48ee5;
 }
 
 .formText {

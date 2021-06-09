@@ -6,7 +6,7 @@
   font-family: 'Poppins', sans-serif;
 }
 body {
-  max-width: 1540px;
+  max-width: 1440px;
   margin: auto;
   height: 100vh;
   background-color: #fff4e3;
@@ -18,9 +18,12 @@ a {
 
 .landingpageh1 {
   font-family: 'Poppins', sans-serif;
-  font-size: 7rem;
+  font-size: 10rem;
   text-transform: uppercase;
   line-height: 120px;
+}
+.test {
+  display: block;
 }
 
 .welcomeImage {
@@ -36,45 +39,10 @@ a {
   color: #312b2b;
 }
 
-.h2container {
+/* .h2container {
   margin: 400px 0px 20px;
 }
 .projectsheading {
   color: #312b2b;
   font-size: 2.5rem;
-  text-decoration: underline;
-}
-
-.projectsContainer {
-  width: 100%;
-  margin: auto;
-  display: flex;
-  justify-content: space-evenly;
-}
-
-.cards {
-  justify-content: center;
-  align-items: center;
-  width: 450px;
-  text-align: center;
-  margin-bottom: 0px auto 80px;
-}
-
-.cardImg {
-  width: 400px;
-}
-
-.viewMoreBtn {
-  margin: 20px 0px 20px;
-  height: 50px;
-  width: 120px;
-  font-size: 1.3rem;
-  font-weight: bold;
-  border-radius: 5px;
-  border: none;
-  background-color: #a48ee5;
-}
-
-.viewMoreBtn a {
-  color: #312b2b;
-}
+} */
