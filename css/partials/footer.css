@@ -1,0 +1,9 @@
+footer {
+  height: 100px;
+}
+
+.fa-github,
+.fa-linkedin {
+  font-size: 2rem;
+  margin-left: 20px;
+}
