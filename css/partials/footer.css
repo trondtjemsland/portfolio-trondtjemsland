@@ -1,5 +1,7 @@
 footer {
   height: 100px;
+  position: sticky;
+  top: 100%;
 }
 
 .fa-github,

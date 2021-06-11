@@ -1,6 +1,6 @@
 .projectsContainer {
   width: 100%;
-  margin: 300px auto;
+  margin: 20px auto;
   display: flex;
   justify-content: space-evenly;
 }
@@ -34,5 +34,6 @@
 }
 
 .projecth1container {
-  margin-left: 40px;
+  width: 100%;
+  padding: 10px;
 }
