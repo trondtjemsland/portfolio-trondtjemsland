@@ -16,14 +16,16 @@ a {
   text-decoration: none;
 }
 
+.frontpageContainer {
+  width: 80%;
+  margin: 0 auto 100px;
+}
+
 .landingpageh1 {
   font-family: 'Poppins', sans-serif;
-  font-size: 9rem;
-  text-transform: uppercase;
+  font-size: 7rem;
   line-height: 140px;
-}
-.test {
-  display: block;
+  margin-right: 100px;
 }
 
 .welcomeImage {
@@ -32,8 +34,34 @@ a {
 
 .welcomeContainer {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: flex-start;
   align-items: center;
-  width: 100%;
   color: #312b2b;
+  margin-top: 100px;
+}
+
+.aboutContainer {
+  width: 100%;
+}
+.aboutmeHeading {
+  font-size: 2rem;
+  font-weight: 500;
+  color: #312b2b;
+  margin-bottom: 10px;
+}
+
+.aboutmeText {
+  color: #312b2b;
+  font-size: 1.3rem;
+  font-weight: 500;
+}
+
+.fa-js-square,
+.fa-css3-alt,
+.fa-html5,
+.fa-figma {
+  font-size: 3.4rem;
+  color: #312b2b;
+  margin-right: 10px;
+  margin-top: 40px;
 }
