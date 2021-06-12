@@ -35,5 +35,10 @@
 
 .projecth1container {
   width: 100%;
+  margin-top: 80px;
   padding: 10px;
+}
+
+.projectText {
+  margin-top: 10px;
 }

@@ -3,10 +3,9 @@
 }
 
 .formDiv {
-  margin-top: 40px;
   width: 50%;
   height: 800px;
-  margin: 150px auto;
+  margin: 100px auto;
 }
 
 input[type='text'] {
@@ -57,10 +56,9 @@ p {
   border: none;
   border-radius: 5px;
   height: 60px;
-  font-size: 2rem;
-  font-weight: bold;
+  font-size: 1.7rem;
   text-transform: uppercase;
-  letter-spacing: 3px;
+  letter-spacing: 5px;
   background-color: #a48ee5;
 }
 
