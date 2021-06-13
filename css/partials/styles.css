@@ -6,10 +6,15 @@
   font-family: 'Poppins', sans-serif;
 }
 body {
-  max-width: 1440px;
+  /* max-width: 1440px; */
   min-height: 100vh;
   margin: auto;
   background-color: #fff4e3;
+}
+
+main {
+  max-width: 1440px;
+  margin: auto;
 }
 
 a {
