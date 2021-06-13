@@ -82,3 +82,8 @@ p {
 textarea[placeholder] {
   padding: 5px;
 }
+
+.contactheading {
+  width: 50%;
+  margin: 40px auto;
+}
